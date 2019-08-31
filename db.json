@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": null
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 3
     },
     {
       "id": 3,
@@ -22,13 +22,14 @@
       "id": 4,
       "name": "Slinky Dog",
       "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "likes": 46,
+      "toylikes": null
     },
     {
       "id": 5,
       "name": "Rex",
       "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "likes": 2
     },
     {
       "id": 6,
@@ -47,6 +48,18 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "cow3",
+      "image": "https://oldmooresalmanac.com/wp-content/uploads/2017/11/cow-2896329_960_720-Copy.jpg",
+      "likes": 0,
+      "id": 13
+    },
+    {
+      "name": "spoony",
+      "image": "https://nypdecider.files.wordpress.com/2018/11/toy-story-forky.jpg?quality=90&strip=all&w=646&h=431&crop=1",
+      "likes": 0,
+      "id": 14
     }
   ]
 }
